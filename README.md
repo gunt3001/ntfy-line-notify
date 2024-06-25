@@ -2,7 +2,7 @@
 
 ![Screenshot of message from LINE Notify](screenshot.jpg)
 
-Forward ntfy push notifications to LINE Notify service using tokens.
+Forward [ntfy](https://github.com/binwiederhier/ntfy) push notifications to LINE Notify service using tokens.
 
 ## How to use
 
